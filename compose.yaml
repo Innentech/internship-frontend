@@ -1,0 +1,57 @@
+version: "3.7"
+services:
+  #dotnet
+  nextjs:
+    image: hipposdippos/nextjsapp
+    container_name: nextjs
+    ports:
+      - "3000:3000"
+    restart: always
+
+  emqx:
+    image: emqx/emqx:latest
+    container_name: emqx
+    environment:
+      - EMQX_LOADED_PLUGINS=emqx_management,emqx_auth_http
+      - EMQX_ALLOW_ANONYMOUS=false
+      - EMQX_AUTH_HTTP=http://emqx_auth_http:8081/auth
+      - EMQX_ACL_NOMATCH=deny
+    ports:
+      - "1883:1883"
+
+  mysql:
+    image: mysql:latest
+    container_name: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: sdalmdsakdmasdsad
+      MYSQL_DATABASE: mobiledata
+      MYSQL_USER: mainuser
+      MYSQL_PASSWORD: kj4ijsddfsASD352
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    restart: always
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:17.0.0
+    container_name: keycloak
+    environment:
+      KEYCLOAK_ADMIN: admin123
+      KEYCLOAK_ADMIN_PASSWORD: password123
+      KC_HTTPS_CERTIFICATE_FILE: /certs/cert.pem
+      KC_HTTPS_CERTIFICATE_KEY_FILE: /certs/key.pem
+      JAVA_OPTS_KC_HEAP: "-XX:MaxRAMPercentage=70 -XX:InitialRAMPercentage=50"
+    ports:
+      - "8443:8443"
+    volumes:
+      - keycloak_certs:/certs
+    command: start-dev
+    deploy:
+      resources:
+        limits:
+          memory: 1g
+    restart: unless-stopped
+volumes:
+  mysql_data:
+  keycloak_certs:
