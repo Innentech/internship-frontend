@@ -1,10 +1,23 @@
-import Link from "next/link"
+"use client"
+import Dashboard from "./component/dashboard"
+import {SessionProvider, useSession} from "next-auth/react"
+import {redirect} from "next/navigation"
+import {useEffect} from "react"
 
-export default function Home() {
+export default function App() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>NEXTJS FRONTEND FARIS</h1>
-      <Link href="/login">Go to Login Page</Link>
-    </main>
+    <SessionProvider>
+      <Main />
+    </SessionProvider>
   )
+}
+
+function Main() {
+  const {data: session} = useSession()
+
+  useEffect(() => {
+    if (!session) redirect("/login")
+  }, [])
+
+  return <main>{session ? <Dashboard /> : <></>}</main>
 }
