@@ -1,5 +1,5 @@
 "use client"
-import Dashboard from "./component/dashboard"
+import Dashboard from "./component/Dashboard"
 import {SessionProvider, useSession} from "next-auth/react"
 import {redirect} from "next/navigation"
 import {useEffect} from "react"

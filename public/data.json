@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Home Thermostat",
+    "type": "thermostat",
+    "status": "active",
+    "sensors": 4,
+    "lastReading": "2024-06-09T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Office Air Purifier",
+    "type": "air purifier",
+    "status": "inactive",
+    "sensors": 2,
+    "lastReading": "2024-06-06T08:45:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Warehouse Temperature Sensor",
+    "type": "temperature sensor",
+    "status": "active",
+    "sensors": 5,
+    "lastReading": "2024-06-09T11:55:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Smart Light Bulb",
+    "type": "light bulb",
+    "status": "inactive",
+    "sensors": 3,
+    "lastReading": "2024-06-07T14:20:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Security Camera",
+    "type": "camera",
+    "status": "active",
+    "sensors": 6,
+    "lastReading": "2024-06-09T09:30:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Garage Door Opener",
+    "type": "garage opener",
+    "status": "active",
+    "sensors": 2,
+    "lastReading": "2024-06-08T10:15:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Living Room Speaker",
+    "type": "speaker",
+    "status": "inactive",
+    "sensors": 4,
+    "lastReading": "2024-06-05T15:45:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Kitchen Refrigerator",
+    "type": "refrigerator",
+    "status": "active",
+    "sensors": 3,
+    "lastReading": "2024-06-09T07:30:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Garden Sprinkler",
+    "type": "sprinkler",
+    "status": "inactive",
+    "sensors": 5,
+    "lastReading": "2024-06-04T11:20:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Bedroom Air Conditioner",
+    "type": "air conditioner",
+    "status": "active",
+    "sensors": 4,
+    "lastReading": "2024-06-09T13:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Laptop Computer 1",
+    "type": "laptop",
+    "status": "inactive",
+    "sensors": 3,
+    "lastReading": "2024-06-07T14:20:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Mobile Phone 1",
+    "type": "mobile",
+    "status": "active",
+    "sensors": 6,
+    "lastReading": "2024-06-09T09:30:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Home Computer",
+    "type": "computer",
+    "status": "inactive",
+    "sensors": 4,
+    "lastReading": "2024-06-05T15:45:00Z"
+  }
+]
