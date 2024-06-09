@@ -1,37 +1,7 @@
 import React, {useState, useEffect, ChangeEvent} from "react"
 import DataTable, {TableStyles} from "react-data-table-component"
-import Device from "@/app/interfaces/Device"
-import Props from "@/app/interfaces/Props"
-import {navigate} from "@/app/utils/actions"
 
 const BACKGROUND_COLOR: string = "#7599bf"
-const COLUMNS = [
-  {
-    name: "ID",
-    selector: (row: Device) => row.id,
-    sortable: true,
-  },
-  {
-    name: "Name",
-    selector: (row: Device) => row.name,
-    sortable: true,
-  },
-  {
-    name: "Type",
-    selector: (row: Device) => row.type,
-  },
-  {
-    name: "Status",
-    selector: (row: Device) => row.status,
-    sortable: true,
-  },
-  {
-    name: "Number of sensors",
-    selector: (row: Device) => row.sensors,
-    sortable: true,
-  },
-]
-
 const customStyles: TableStyles = {
   headRow: {
     style: {
@@ -71,23 +41,15 @@ const customStyles: TableStyles = {
   },
 }
 
-const DevicesTable: React.FC<Props> = ({devices}) => {
-  const [data, setData] = useState<Device[]>(devices)
-
-  useEffect(() => {
-    setData(devices)
-  }, [devices])
-
+export default function CustomTableChart({data}: any) {
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
-    const searchTerm = e.target.value.toLowerCase()
-    const filteredData = devices.filter(device =>
-      device.name.toLowerCase().includes(searchTerm)
-    )
-    setData(filteredData)
+    // const searchTerm = e.target.value.toLowerCase()
+    // const filteredData = devices.filter(device =>
+    //   device.name.toLowerCase().includes(searchTerm)
+    // )
+    // setData(filteredData)
   }
-  const handleRowClicked = (row: Device) => {
-    navigate(`/${row.id}?name=${row.name}`)
-  }
+
   return (
     <>
       <div className="mb-4">
@@ -100,15 +62,11 @@ const DevicesTable: React.FC<Props> = ({devices}) => {
         />
       </div>
       <DataTable
-        columns={COLUMNS}
-        data={data}
+        columns={[]}
+        data={[]}
         customStyles={customStyles}
-        pagination
-        onRowClicked={handleRowClicked}
         highlightOnHover={true}
       />
     </>
   )
 }
-
-export default DevicesTable

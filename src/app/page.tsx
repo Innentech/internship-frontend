@@ -18,6 +18,7 @@ function Main() {
   useEffect(() => {
     // if (!session) redirect("/login")
   }, [])
+  // if (!session) return null
 
   return (
     <main className="bg-slate-100 w-screen min-h-screen flex justify-center align-super">
