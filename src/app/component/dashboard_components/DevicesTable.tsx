@@ -86,6 +86,7 @@ const DevicesTable: React.FC<Props> = ({devices}) => {
     setData(filteredData)
   }
   const handleRowClicked = (row: Device) => {
+    // redirect user to specific device with that id, a slug.
     navigate(`/${row.id}?name=${row.name}`)
   }
   return (

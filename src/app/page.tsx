@@ -15,6 +15,7 @@ export default function App() {
 function Main() {
   const {data: session} = useSession()
 
+  // fix session only lasts for 0 seconds ?
   useEffect(() => {
     // if (!session) redirect("/login")
   }, [])

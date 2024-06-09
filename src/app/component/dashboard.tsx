@@ -10,7 +10,7 @@ const Dashboard: React.FC = () => {
   useEffect(() => {
     const fetchDevices = async () => {
       try {
-        const response = await fetch("/data.json")
+        const response = await fetch("/data.json") // fetch from real api endpoint
         const data: Device[] = await response.json()
         setDevicesData(data)
       } catch (error) {

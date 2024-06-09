@@ -3,54 +3,8 @@ import {useSearchParams, useRouter} from "next/navigation"
 import {useSession, SessionProvider} from "next-auth/react"
 import {useEffect, useState} from "react"
 import {redirect} from "next/navigation"
-import LineChart from "../component/deviceCharts/LineChart"
-import BarChart from "../component/deviceCharts/BarChart"
-import CustomTableChart from "../component/deviceCharts/TableChart"
-
-const datacharts = [
-  {
-    name: "Page A",
-    uv: 4000,
-    pv: 2400,
-    amt: 2400,
-  },
-  {
-    name: "Page B",
-    uv: 3000,
-    pv: 1398,
-    amt: 2210,
-  },
-  {
-    name: "Page C",
-    uv: 2000,
-    pv: 9800,
-    amt: 2290,
-  },
-  {
-    name: "Page D",
-    uv: 2780,
-    pv: 3908,
-    amt: 2000,
-  },
-  {
-    name: "Page E",
-    uv: 1890,
-    pv: 4800,
-    amt: 2181,
-  },
-  {
-    name: "Page F",
-    uv: 2390,
-    pv: 3800,
-    amt: 2500,
-  },
-  {
-    name: "Page G",
-    uv: 3490,
-    pv: 4300,
-    amt: 2100,
-  },
-]
+import Link from "next/link"
+import Sensor from "../interfaces/Sensor"
 
 const DeviceScreen = ({params}: any) => {
   const {data: session} = useSession()
@@ -64,18 +18,51 @@ const DeviceScreen = ({params}: any) => {
   }, [session, router])
   // if (!session) return null
 
-  const [sensorData, setSensorData] = useState()
+  const [sensors, setSensors] = useState<Sensor[]>([])
   useEffect(() => {
-    // fetch sensor data by device id
-  }, [sensorData])
+    const fetchSensors = async () => {
+      try {
+        const response = await fetch("/sensors.json")
+        const data = await response.json()
+        const filteredSensors = data.filter(
+          (sensor: Sensor) => sensor.deviceId == deviceId
+        ) // temporary because im gonna get the filtered data from backend anyways
+        setSensors(filteredSensors)
+      } catch (error) {
+        console.error("Error fetching data:", error)
+      }
+    }
+    fetchSensors()
+  }, [])
+
   return (
     <div className="min-h-auto relative bg-white bg-opacity-80 backdrop-blur-sm p-6 md:p-10 w-auto mx-4 md:mx-20 my-10 flex flex-col border-r-8 rounded-3xl shadow-xl gap-4">
       <h2 className="text-2xl font-semibold mb-6">
         Current device: {deviceName ? deviceName : deviceId}
       </h2>
-      <LineChart data={datacharts} />
-      <BarChart data={datacharts} />
-      <CustomTableChart data={datacharts} />
+      {sensors.length > 0 && (
+        <div className="grid grid-cols-1 gap-4">
+          {sensors.map(sensor => (
+            <Link
+              key={sensor.id}
+              href={`/${deviceId}/${sensor.id}?name=${sensor.name}`}
+              className="block border border-blue-500 rounded-lg overflow-hidden hover:bg-blue-100"
+            >
+              <div className="p-4">
+                <p className="text-lg font-semibold text-blue-500 mb-2">
+                  {sensor.name}
+                </p>
+                <p className="text-base text-gray-600">
+                  Sensor ID: {sensor.id}
+                </p>
+                <p className="text-base text-gray-600">
+                  Created at: {sensor.createdAt}
+                </p>
+              </div>
+            </Link>
+          ))}
+        </div>
+      )}
     </div>
   )
 }

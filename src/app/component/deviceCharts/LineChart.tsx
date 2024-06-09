@@ -10,6 +10,7 @@ import {
 } from "recharts"
 
 export default function CustomLineChart({data}: any) {
+  // placeholder charts,
   return (
     <div style={{width: "100%", height: 600}} className="p-2">
       <ResponsiveContainer width="100%" height="100%">

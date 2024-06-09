@@ -11,11 +11,11 @@ import {
 } from "recharts"
 
 export default function CustomBarChart({data}: any) {
-  // Rename to CustomBarChart
+  // placeholder charts,
   return (
     <div style={{width: "100%", height: 600}} className="p-2">
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart // Changed to BarChart from Recharts
+        <BarChart
           width={500}
           height={300}
           data={data}

@@ -42,6 +42,7 @@ const customStyles: TableStyles = {
 }
 
 export default function CustomTableChart({data}: any) {
+  // simple search method taken from dashboard
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
     // const searchTerm = e.target.value.toLowerCase()
     // const filteredData = devices.filter(device =>
@@ -49,7 +50,7 @@ export default function CustomTableChart({data}: any) {
     // )
     // setData(filteredData)
   }
-
+  // placeholder charts,
   return (
     <>
       <div className="mb-4">
