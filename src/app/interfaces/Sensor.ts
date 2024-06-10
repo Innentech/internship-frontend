@@ -1,5 +1,5 @@
 export default interface Sensor {
-  id: number
+  sensorId: number
   name: string
   deviceId: string
   createdAt: string

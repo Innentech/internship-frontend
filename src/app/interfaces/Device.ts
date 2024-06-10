@@ -1,5 +1,5 @@
 export default interface Device {
-  id: number
+  deviceId: number
   name: string
   type: string
   status: string

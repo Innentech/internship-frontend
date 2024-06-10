@@ -13,11 +13,13 @@ export default function App() {
 }
 
 function Main() {
-  const {data: session} = useSession()
+  const {data: session, status: isAuthenticated} = useSession()
 
   // fix session only lasts for 0 seconds ?
+  // no id in data
   useEffect(() => {
     // if (!session) redirect("/login")
+    console.log(session, isAuthenticated)
   }, [])
   // if (!session) return null
 

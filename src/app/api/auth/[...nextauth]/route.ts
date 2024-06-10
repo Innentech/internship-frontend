@@ -20,7 +20,7 @@ export const authOptions: NextAuthOptions = {
   ],
   callbacks: {
     async session({session, token, user}) {
-      console.log(session, token)
+      console.log(session, token, user)
       return session
     },
     async redirect({url, baseUrl}) {

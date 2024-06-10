@@ -8,7 +8,7 @@ const BACKGROUND_COLOR: string = "#7599bf"
 const COLUMNS = [
   {
     name: "ID",
-    selector: (row: Device) => row.id,
+    selector: (row: Device) => row.deviceId,
     sortable: true,
   },
   {
@@ -87,7 +87,7 @@ const DevicesTable: React.FC<Props> = ({devices}) => {
   }
   const handleRowClicked = (row: Device) => {
     // redirect user to specific device with that id, a slug.
-    navigate(`/${row.id}?name=${row.name}`)
+    navigate(`/${row.deviceId}?name=${row.name}`)
   }
   return (
     <>

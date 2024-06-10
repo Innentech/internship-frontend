@@ -1,56 +1,61 @@
 [
-  {"name": "GPS", "id": 1, "deviceId": 1, "createdAt": "2024-06-09T12:00:00Z"},
+  {
+    "name": "GPS",
+    "sensorId": 1,
+    "deviceId": 1,
+    "createdAt": "2024-06-09T12:00:00Z"
+  },
   {
     "name": "Temperature Sensor",
-    "id": 2,
+    "sensorId": 2,
     "deviceId": 1,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Motion Sensor",
-    "id": 3,
+    "sensorId": 3,
     "deviceId": 1,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Humidity Sensor",
-    "id": 4,
+    "sensorId": 4,
     "deviceId": 1,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Air Quality Sensor",
-    "id": 5,
+    "sensorId": 5,
     "deviceId": 2,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Light Sensor",
-    "id": 6,
+    "sensorId": 6,
     "deviceId": 2,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Pressure Sensor",
-    "id": 7,
+    "sensorId": 7,
     "deviceId": 2,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Sound Sensor",
-    "id": 8,
+    "sensorId": 8,
     "deviceId": 3,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Camera",
-    "id": 9,
+    "sensorId": 9,
     "deviceId": 3,
     "createdAt": "2024-06-09T12:00:00Z"
   },
   {
     "name": "Proximity Sensor",
-    "id": 10,
+    "sensorId": 10,
     "deviceId": 3,
     "createdAt": "2024-06-09T12:00:00Z"
   }

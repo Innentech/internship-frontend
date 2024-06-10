@@ -7,7 +7,7 @@ import Link from "next/link"
 import Sensor from "../interfaces/Sensor"
 
 const DeviceScreen = ({params}: any) => {
-  const {data: session} = useSession()
+  const {data: session, status: isAuthenticated} = useSession()
   const router = useRouter()
   const searchParams = useSearchParams()
   const deviceId: string = params.deviceId
@@ -40,12 +40,12 @@ const DeviceScreen = ({params}: any) => {
       <h2 className="text-2xl font-semibold mb-6">
         Current device: {deviceName ? deviceName : deviceId}
       </h2>
-      {sensors.length > 0 && (
+      {sensors.length > 0 ? (
         <div className="grid grid-cols-1 gap-4">
           {sensors.map(sensor => (
             <Link
-              key={sensor.id}
-              href={`/${deviceId}/${sensor.id}?name=${sensor.name}`}
+              key={sensor.sensorId}
+              href={`/${deviceId}/${sensor.sensorId}?name=${sensor.name}`}
               className="block border border-blue-500 rounded-lg overflow-hidden hover:bg-blue-100"
             >
               <div className="p-4">
@@ -53,7 +53,7 @@ const DeviceScreen = ({params}: any) => {
                   {sensor.name}
                 </p>
                 <p className="text-base text-gray-600">
-                  Sensor ID: {sensor.id}
+                  Sensor ID: {sensor.sensorId}
                 </p>
                 <p className="text-base text-gray-600">
                   Created at: {sensor.createdAt}
@@ -62,6 +62,8 @@ const DeviceScreen = ({params}: any) => {
             </Link>
           ))}
         </div>
+      ) : (
+        <h1>No sensors available</h1>
       )}
     </div>
   )

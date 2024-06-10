@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "deviceId": 1,
     "name": "Home Thermostat",
     "type": "thermostat",
     "status": "active",
@@ -8,7 +8,7 @@
     "lastReading": "2024-06-09T12:00:00Z"
   },
   {
-    "id": 2,
+    "deviceId": 2,
     "name": "Office Air Purifier",
     "type": "air purifier",
     "status": "inactive",
@@ -16,7 +16,7 @@
     "lastReading": "2024-06-06T08:45:00Z"
   },
   {
-    "id": 3,
+    "deviceId": 3,
     "name": "Warehouse Temperature Sensor",
     "type": "temperature sensor",
     "status": "active",
@@ -24,7 +24,7 @@
     "lastReading": "2024-06-09T11:55:00Z"
   },
   {
-    "id": 4,
+    "deviceId": 4,
     "name": "Smart Light Bulb",
     "type": "light bulb",
     "status": "inactive",
@@ -32,7 +32,7 @@
     "lastReading": "2024-06-07T14:20:00Z"
   },
   {
-    "id": 5,
+    "deviceId": 5,
     "name": "Security Camera",
     "type": "camera",
     "status": "active",
@@ -40,7 +40,7 @@
     "lastReading": "2024-06-09T09:30:00Z"
   },
   {
-    "id": 6,
+    "deviceId": 6,
     "name": "Garage Door Opener",
     "type": "garage opener",
     "status": "active",
@@ -48,7 +48,7 @@
     "lastReading": "2024-06-08T10:15:00Z"
   },
   {
-    "id": 7,
+    "deviceId": 7,
     "name": "Living Room Speaker",
     "type": "speaker",
     "status": "inactive",
@@ -56,7 +56,7 @@
     "lastReading": "2024-06-05T15:45:00Z"
   },
   {
-    "id": 8,
+    "deviceId": 8,
     "name": "Kitchen Refrigerator",
     "type": "refrigerator",
     "status": "active",
@@ -64,7 +64,7 @@
     "lastReading": "2024-06-09T07:30:00Z"
   },
   {
-    "id": 9,
+    "deviceId": 9,
     "name": "Garden Sprinkler",
     "type": "sprinkler",
     "status": "inactive",
@@ -72,7 +72,7 @@
     "lastReading": "2024-06-04T11:20:00Z"
   },
   {
-    "id": 10,
+    "deviceId": 10,
     "name": "Bedroom Air Conditioner",
     "type": "air conditioner",
     "status": "active",
@@ -80,7 +80,7 @@
     "lastReading": "2024-06-09T13:00:00Z"
   },
   {
-    "id": 11,
+    "deviceId": 11,
     "name": "Laptop Computer 1",
     "type": "laptop",
     "status": "inactive",
@@ -88,7 +88,7 @@
     "lastReading": "2024-06-07T14:20:00Z"
   },
   {
-    "id": 12,
+    "deviceId": 12,
     "name": "Mobile Phone 1",
     "type": "mobile",
     "status": "active",
@@ -96,7 +96,7 @@
     "lastReading": "2024-06-09T09:30:00Z"
   },
   {
-    "id": 13,
+    "deviceId": 13,
     "name": "Home Computer",
     "type": "computer",
     "status": "inactive",
