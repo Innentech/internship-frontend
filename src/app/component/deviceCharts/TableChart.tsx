@@ -43,18 +43,19 @@ const customStyles: TableStyles = {
 
 export default function CustomTableChart({data}: any) {
   // simple search method taken from dashboard
+  // const [sensorData, setSensorData] = useState()
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
     // const searchTerm = e.target.value.toLowerCase()
-    // const filteredData = devices.filter(device =>
-    //   device.name.toLowerCase().includes(searchTerm)
+    // const filteredData = sensorData.filter(sensor =>
+    //   sensor.name.toLowerCase().includes(searchTerm)
     // )
-    // setData(filteredData)
+    // setSensorData(filteredData)
   }
-  // placeholder charts,
+  // placeholder charts
   return (
     <>
       <div className="mb-4">
-        <h3 className="text-xl my-2">Search for a device by name</h3>
+        <h3 className="text-xl my-2">Search for something</h3>
         <input
           type="search"
           placeholder="Search..."

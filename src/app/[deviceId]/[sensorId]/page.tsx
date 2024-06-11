@@ -1,5 +1,5 @@
 "use client"
-import {useSearchParams, useRouter} from "next/navigation"
+import {useSearchParams} from "next/navigation"
 import {useSession, SessionProvider} from "next-auth/react"
 import {useEffect, useState} from "react"
 import {redirect} from "next/navigation"
@@ -53,16 +53,16 @@ const datacharts = [
 ]
 
 const DeviceScreen = ({params}: any) => {
-  const {data: session} = useSession()
-  const router = useRouter()
   const searchParams = useSearchParams()
   const sensorId: string = params.sensorId
   const sensorName: string | null = searchParams.get("name")
 
+  const {data: session, status} = useSession()
   useEffect(() => {
-    // if (!session) redirect("/login")
-  }, [session, router])
-  // if (!session) return null
+    if (status !== "loading" && !session) {
+      redirect("/login")
+    }
+  }, [status])
 
   const [sensorData, setSensorData] = useState([{sensorName: "GPS", id: 69}])
   useEffect(() => {

@@ -18,14 +18,24 @@ export const authOptions: NextAuthOptions = {
       },
     }),
   ],
+    session: {
+      strategy: "jwt",
+      maxAge: 4 * 60 * 60, // 4 hours
+    },
   callbacks: {
     async session({session, token, user}) {
-      console.log(session, token, user)
       return session
     },
     async redirect({url, baseUrl}) {
-      console.log("Redirect callback", url, baseUrl)
       return baseUrl
+    },
+    async jwt({token, user, account, profile, session}) {
+      // console.log("JWT token: ", token)
+      // console.log("JWT user : ", user)
+      // console.log("JWT account : ", account)
+      // console.log("JWT profile : ", profile)
+      // console.log("JWT SESSION", session)
+      return token
     },
   },
   secret: process.env.NEXTAUTH_SECRET,

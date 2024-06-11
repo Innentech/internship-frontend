@@ -1,22 +1,26 @@
 "use client"
-import {useSearchParams, useRouter} from "next/navigation"
+import {useSearchParams} from "next/navigation"
 import {useSession, SessionProvider} from "next-auth/react"
 import {useEffect, useState} from "react"
 import {redirect} from "next/navigation"
 import Link from "next/link"
 import Sensor from "../interfaces/Sensor"
+import Skeleton from "react-loading-skeleton"
+import "react-loading-skeleton/dist/skeleton.css"
 
 const DeviceScreen = ({params}: any) => {
-  const {data: session, status: isAuthenticated} = useSession()
-  const router = useRouter()
+  const [loading, setLoading] = useState(true)
+
   const searchParams = useSearchParams()
   const deviceId: string = params.deviceId
   const deviceName: string | null = searchParams.get("name")
 
+  const {data: session, status} = useSession()
   useEffect(() => {
-    // if (!session) redirect("/login")
-  }, [session, router])
-  // if (!session) return null
+    if (status !== "loading" && !session) {
+      redirect("/login")
+    }
+  }, [status])
 
   const [sensors, setSensors] = useState<Sensor[]>([])
   useEffect(() => {
@@ -28,8 +32,10 @@ const DeviceScreen = ({params}: any) => {
           (sensor: Sensor) => sensor.deviceId == deviceId
         ) // temporary because im gonna get the filtered data from backend anyways
         setSensors(filteredSensors)
+        setLoading(false)
       } catch (error) {
         console.error("Error fetching data:", error)
+        setLoading(false)
       }
     }
     fetchSensors()
@@ -40,7 +46,9 @@ const DeviceScreen = ({params}: any) => {
       <h2 className="text-2xl font-semibold mb-6">
         Current device: {deviceName ? deviceName : deviceId}
       </h2>
-      {sensors.length > 0 ? (
+      {loading ? (
+        <Skeleton count={10} height={"85px"} />
+      ) : sensors.length > 0 ? (
         <div className="grid grid-cols-1 gap-4">
           {sensors.map(sensor => (
             <Link

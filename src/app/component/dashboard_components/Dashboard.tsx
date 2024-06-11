@@ -1,7 +1,7 @@
 import {useState, useEffect} from "react"
-import LogoutBtn from "./dashboard_components/LogoutBtn"
-import DevicesTable from "./dashboard_components/DevicesTable"
-import MainDashboardCards from "./dashboard_components/MainDashboardCards"
+import LogoutBtn from "./LogoutBtn"
+import DevicesTable from "./DevicesTable"
+import MainDashboardCards from "./MainDashboardCards"
 import Device from "@/app/interfaces/Device"
 
 const Dashboard: React.FC = () => {
@@ -25,7 +25,6 @@ const Dashboard: React.FC = () => {
       <h1 className="text-4xl font-semibold mb-6">Dashboard Overview</h1>
       <MainDashboardCards devices={devicesData} />
       <DevicesTable devices={devicesData} />
-      <LogoutBtn />
     </div>
   )
 }
