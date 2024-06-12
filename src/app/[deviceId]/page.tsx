@@ -1,26 +1,21 @@
 "use client"
 import {useSearchParams} from "next/navigation"
-import {useSession, SessionProvider} from "next-auth/react"
+import {SessionProvider} from "next-auth/react"
 import {useEffect, useState} from "react"
-import {redirect} from "next/navigation"
 import Link from "next/link"
 import Sensor from "../interfaces/Sensor"
 import Skeleton from "react-loading-skeleton"
 import "react-loading-skeleton/dist/skeleton.css"
+import {useProtectedRoute} from "../utils/sessionHook"
 
-const DeviceScreen = ({params}: any) => {
+const DeviceScreen: React.FC = ({params}: any) => {
   const [loading, setLoading] = useState(true)
 
   const searchParams = useSearchParams()
   const deviceId: string = params.deviceId
   const deviceName: string | null = searchParams.get("name")
 
-  const {data: session, status} = useSession()
-  useEffect(() => {
-    if (status !== "loading" && !session) {
-      redirect("/login")
-    }
-  }, [status])
+  useProtectedRoute()
 
   const [sensors, setSensors] = useState<Sensor[]>([])
   useEffect(() => {
@@ -77,7 +72,7 @@ const DeviceScreen = ({params}: any) => {
   )
 }
 
-const WrappedDeviceScreen = (props: any) => (
+const WrappedDeviceScreen: React.FC = (props: any) => (
   <SessionProvider>
     <DeviceScreen {...props} />
   </SessionProvider>

@@ -1,8 +1,8 @@
 "use client"
 import {useSearchParams} from "next/navigation"
-import {useSession, SessionProvider} from "next-auth/react"
+import {SessionProvider} from "next-auth/react"
 import {useEffect, useState} from "react"
-import {redirect} from "next/navigation"
+import {useProtectedRoute} from "@/app/utils/sessionHook"
 import CustomLineChart from "@/app/component/deviceCharts/LineChart"
 import CustomBarChart from "@/app/component/deviceCharts/BarChart"
 import CustomTableChart from "@/app/component/deviceCharts/TableChart"
@@ -52,22 +52,18 @@ const datacharts = [
   },
 ]
 
-const DeviceScreen = ({params}: any) => {
+const SensorScreen: React.FC = ({params}: any) => {
   const searchParams = useSearchParams()
   const sensorId: string = params.sensorId
   const sensorName: string | null = searchParams.get("name")
 
-  const {data: session, status} = useSession()
-  useEffect(() => {
-    if (status !== "loading" && !session) {
-      redirect("/login")
-    }
-  }, [status])
+  useProtectedRoute()
 
-  const [sensorData, setSensorData] = useState([{sensorName: "GPS", id: 69}])
+  const [sensorData, setSensorData] = useState([{sensorName: "GPS", id: 1}])
   useEffect(() => {
-    // fetch sensors.
+    // fetch sensors
   }, [sensorData])
+
   return (
     <div className="min-h-auto relative bg-white bg-opacity-80 backdrop-blur-sm p-6 md:p-10 w-auto mx-4 md:mx-20 my-10 flex flex-col border-r-8 rounded-3xl shadow-xl gap-4">
       <h2 className="text-2xl font-semibold mb-6">
@@ -80,10 +76,10 @@ const DeviceScreen = ({params}: any) => {
   )
 }
 
-const WrappedDeviceScreen = (props: any) => (
+const WrappedSensorScreen: React.FC = (props: any) => (
   <SessionProvider>
-    <DeviceScreen {...props} />
+    <SensorScreen {...props} />
   </SessionProvider>
 )
 
-export default WrappedDeviceScreen
+export default WrappedSensorScreen

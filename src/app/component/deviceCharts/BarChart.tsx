@@ -10,8 +10,7 @@ import {
   BarChart,
 } from "recharts"
 
-export default function CustomBarChart({data}: any) {
-  // placeholder charts,
+const CustomBarChart = ({data = []}: {data: any[]}) => {
   return (
     <div style={{width: "100%", height: 600}} className="p-2">
       <ResponsiveContainer width="100%" height="100%">
@@ -46,3 +45,5 @@ export default function CustomBarChart({data}: any) {
     </div>
   )
 }
+
+export default CustomBarChart

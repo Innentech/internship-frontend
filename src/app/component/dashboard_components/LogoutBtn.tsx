@@ -3,7 +3,7 @@ import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faSignOutAlt} from "@fortawesome/free-solid-svg-icons"
 import {signOut} from "next-auth/react"
 
-export default function LogoutBtn() {
+export const LogoutBtn: React.FC = () => {
   return (
     <button
       onClick={() => {
@@ -18,3 +18,5 @@ export default function LogoutBtn() {
     </button>
   )
 }
+
+export default LogoutBtn

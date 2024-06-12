@@ -41,7 +41,7 @@ const customStyles: TableStyles = {
   },
 }
 
-export default function CustomTableChart({data}: any) {
+const CustomTableChart = ({data}: any) => {
   // simple search method taken from dashboard
   // const [sensorData, setSensorData] = useState()
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
@@ -72,3 +72,5 @@ export default function CustomTableChart({data}: any) {
     </>
   )
 }
+
+export default CustomTableChart

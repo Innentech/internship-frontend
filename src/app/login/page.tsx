@@ -1,21 +1,21 @@
 "use client"
 import {signIn, signOut} from "next-auth/react"
-import {SessionProvider, useSession} from "next-auth/react"
+import {SessionProvider} from "next-auth/react"
 import Link from "next/link"
+import {useProtectedRoute} from "../utils/sessionHook"
 
-export default function LoginWrapper() {
-  return (
-    <SessionProvider>
-      <LoginPage />
-    </SessionProvider>
-  )
-}
+const LoginWrapper: React.FC = () => (
+  <SessionProvider>
+    <LoginPage />
+  </SessionProvider>
+)
 
-function LoginPage() {
-  const {data: session, status} = useSession()
+const LoginPage: React.FC = () => {
+  const {session} = useProtectedRoute()
+
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md w-full space-y-8">
+    <div className="min-h-screen py-4 px-4 sm:px-6 lg:px-2 w-screen justify-center flex">
+      <div className="max-w-md space-y-8 relative bg-white bg-opacity-80 backdrop-blur-sm p-6 md:p-10 w-screen mx-4 md:mx-20 my-10 flex flex-col shadow-xl gap-4 border-none h-fit">
         <div>
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
             Sign in to your account
@@ -55,3 +55,5 @@ function LoginPage() {
     </div>
   )
 }
+
+export default LoginWrapper
