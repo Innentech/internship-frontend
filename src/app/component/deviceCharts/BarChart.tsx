@@ -42,6 +42,7 @@ const CustomBarChart = ({data = []}: {data: any[]}) => {
           <Bar
             dataKey="value"
             fill="#8884d8"
+            name={data.length > 0 && data[0].measurement}
             activeBar={<Rectangle fill="pink" stroke="blue" />}
           />
         </BarChart>

@@ -61,11 +61,18 @@ const CustomTableChart = ({data}: any) => {
   ]
   // simple search method taken from dashboard
   const [sensorData, setSensorData] = useState([])
+  const [searchTerm, setSearchTerm] = useState("")
+
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
     const searchTerm = e.target.value.toLowerCase()
-    const filteredData = data.filter((sensor: any) =>
-      sensor.name.toLowerCase().includes(searchTerm)
+    setSearchTerm(searchTerm)
+
+    const filteredData = data.filter(
+      (sensor: any) =>
+        sensor.date.toLowerCase().includes(searchTerm) ||
+        sensor.value.toString().toLowerCase().includes(searchTerm)
     )
+
     setSensorData(filteredData)
   }
 
@@ -76,7 +83,7 @@ const CustomTableChart = ({data}: any) => {
   return (
     <>
       <div className="mb-4">
-        <h3 className="text-xl my-2">Search for something</h3>
+        <h3 className="text-xl my-2">Search by value or time</h3>
         <input
           type="search"
           placeholder="Search..."

@@ -18,7 +18,7 @@ const SensorScreen: React.FC = ({params}: any) => {
   useEffect(() => {
     const fetchSensorData = async () => {
       try {
-        const response = await fetch("/sensors/TLM0201-sensors-data.json")
+        const response = await fetch("/sensors/TLM0203-sensors-data.json")
         const data = await response.json()
         data.forEach((item: any) => {
           item.date = new Date(item.date).toLocaleString()

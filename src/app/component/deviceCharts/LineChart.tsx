@@ -19,6 +19,7 @@ const CustomLineChart = ({data = []}: {data: any[]}) => {
   const ticks = Array.from({length: numTicks}, (_, i) =>
     (minValue + i * tickInterval).toFixed(2)
   ).map(Number)
+
   return (
     <div style={{width: "100%", height: 600}} className="p-2">
       <ResponsiveContainer width="100%" height="100%">
@@ -39,6 +40,7 @@ const CustomLineChart = ({data = []}: {data: any[]}) => {
           <Line
             type="monotone"
             dataKey="value"
+            name={data.length > 0 && data[0].measurement}
             stroke="#8884d8"
             activeDot={{r: 8}}
           />
