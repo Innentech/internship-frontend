@@ -7,7 +7,7 @@ const customHttpAgent = new https.Agent({
   rejectUnauthorized: false,
 })
 
-export const authOptions: NextAuthOptions = {
+const authOptions: NextAuthOptions = {
   providers: [
     KeycloakProvider({
       clientId: process.env.KEYCLOAK_ID as string,
@@ -18,10 +18,10 @@ export const authOptions: NextAuthOptions = {
       },
     }),
   ],
-    session: {
-      strategy: "jwt",
-      maxAge: 4 * 60 * 60, // 4 hours
-    },
+  session: {
+    strategy: "jwt",
+    maxAge: 4 * 60 * 60, // 4 hours
+  },
   callbacks: {
     async session({session, token, user}) {
       return session
@@ -32,8 +32,8 @@ export const authOptions: NextAuthOptions = {
     async jwt({token, user, account, profile, session}) {
       // console.log("JWT token: ", token)
       // console.log("JWT user : ", user)
-      // console.log("JWT account : ", account)
-      // console.log("JWT profile : ", profile)
+      // console.log("JWT account : ", account) // important
+      // console.log("JWT profile : ", profile) // important
       // console.log("JWT SESSION", session)
       return token
     },

@@ -42,16 +42,37 @@ const customStyles: TableStyles = {
 }
 
 const CustomTableChart = ({data}: any) => {
+  const colums: any = [
+    {
+      name: "ID",
+      selector: (row: any) => row.sensorId,
+      sortable: false,
+    },
+    {
+      name: "Date",
+      selector: (row: any) => row.date,
+      sortable: true,
+    },
+    {
+      name: "Value",
+      selector: (row: any) => row.value,
+      sortable: true,
+    },
+  ]
   // simple search method taken from dashboard
-  // const [sensorData, setSensorData] = useState()
+  const [sensorData, setSensorData] = useState([])
   const handleSearch = (e: ChangeEvent<HTMLInputElement>) => {
-    // const searchTerm = e.target.value.toLowerCase()
-    // const filteredData = sensorData.filter(sensor =>
-    //   sensor.name.toLowerCase().includes(searchTerm)
-    // )
-    // setSensorData(filteredData)
+    const searchTerm = e.target.value.toLowerCase()
+    const filteredData = data.filter((sensor: any) =>
+      sensor.name.toLowerCase().includes(searchTerm)
+    )
+    setSensorData(filteredData)
   }
-  // placeholder charts
+
+  useEffect(() => {
+    setSensorData(data)
+  }, [data])
+
   return (
     <>
       <div className="mb-4">
@@ -64,9 +85,10 @@ const CustomTableChart = ({data}: any) => {
         />
       </div>
       <DataTable
-        columns={[]}
-        data={[]}
+        columns={colums}
+        data={sensorData}
         customStyles={customStyles}
+        pagination
         highlightOnHover={true}
       />
     </>

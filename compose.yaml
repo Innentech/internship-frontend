@@ -7,13 +7,15 @@ services:
     ports:
       - "3000:3000"
     restart: always
-    enviroment:
+    environment:
       - KEYCLOAK_ID=frontend-client
       - KEYCLOAK_SECRET=zyvNKyjK3roZU7PoL6BwaiQ8ImuoEiJx
       - KEYCLOAK_ISSUER=https://64.226.121.229:8443/realms/frontendapp
       - NEXTAUTH_SECRET=o34kjaosdaD@%SAPDasd234
-      -  # NODE_EXTRA_CA_CERTS=C:\Users\faris\Desktop\projects\nextjs-int\certificates\localhost.pem
-      -  # NEXTAUTH_URL="httphs://localhost:3000"
+      - NEXTAUTH_URL=64.226.121.229:3000
+      #-  NODE_EXTRA_CA_CERTS=C:\Users\faris\Desktop\projects\nextjs-int\certificates\localhost.pem
+      # - NEXTAUTH_URL="https://localhost:3000"
+      - NODE_EXTRA_CA_CERTS=/certificates/localhost.pem
   emqx:
     image: emqx/emqx:latest
     container_name: emqx

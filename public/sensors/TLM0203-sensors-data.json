@@ -1,0 +1,2529 @@
+[
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:12Z",
+    "value": 74.8350445616301,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:22Z",
+    "value": 74.78803362968021,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:32Z",
+    "value": 74.78802272603214,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:42Z",
+    "value": 74.8356043499145,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:52Z",
+    "value": 74.88431256978522,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:02Z",
+    "value": 74.84061069353037,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:12Z",
+    "value": 74.87413693804439,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:22Z",
+    "value": 74.90951162655128,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:32Z",
+    "value": 74.8898193472678,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:42Z",
+    "value": 74.93194977888038,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:52Z",
+    "value": 74.93448459597636,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:02Z",
+    "value": 74.91333216006723,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:12Z",
+    "value": 74.95611444181611,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:22Z",
+    "value": 74.9470699946227,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:32Z",
+    "value": 74.9126478679964,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:42Z",
+    "value": 74.92588486998787,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:52Z",
+    "value": 74.94928749646081,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:02Z",
+    "value": 74.90732458224137,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:12Z",
+    "value": 74.89975160347723,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:22Z",
+    "value": 74.87261044567245,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:32Z",
+    "value": 74.91841177549071,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:42Z",
+    "value": 74.9115222769306,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:52Z",
+    "value": 74.95059305903014,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:02Z",
+    "value": 74.95145290195809,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:12Z",
+    "value": 74.93660469664853,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:22Z",
+    "value": 74.9401140855302,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:32Z",
+    "value": 74.91920726538328,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:42Z",
+    "value": 74.87974429125114,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:52Z",
+    "value": 74.90205651061144,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:02Z",
+    "value": 74.86669350459033,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:12Z",
+    "value": 74.88373515218775,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:22Z",
+    "value": 74.856981652465,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:32Z",
+    "value": 74.81117406210022,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:42Z",
+    "value": 74.76524733986426,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:52Z",
+    "value": 74.72903874238293,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:02Z",
+    "value": 74.72035444769624,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:12Z",
+    "value": 74.70709671095113,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:22Z",
+    "value": 74.74350711170526,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:32Z",
+    "value": 74.77049392198103,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:42Z",
+    "value": 74.74797550360982,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:52Z",
+    "value": 74.79088084098146,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:02Z",
+    "value": 74.76070869698924,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:12Z",
+    "value": 74.71692686271135,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:22Z",
+    "value": 74.69576384673913,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:32Z",
+    "value": 74.67784148278339,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:42Z",
+    "value": 74.69084625013991,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:52Z",
+    "value": 74.64166949073521,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:02Z",
+    "value": 74.6804919760041,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:12Z",
+    "value": 74.6807454868667,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:22Z",
+    "value": 74.68917151097818,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:32Z",
+    "value": 74.68101647110721,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:42Z",
+    "value": 74.63482587623074,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:52Z",
+    "value": 74.68107663603493,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:02Z",
+    "value": 74.70650082412006,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:12Z",
+    "value": 74.71146718835898,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:22Z",
+    "value": 74.73837913291375,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:32Z",
+    "value": 74.73135667353718,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:42Z",
+    "value": 74.68466301067626,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:52Z",
+    "value": 74.64598484587088,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:02Z",
+    "value": 74.68451932442309,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:12Z",
+    "value": 74.68387320757142,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:22Z",
+    "value": 74.6829907890547,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:32Z",
+    "value": 74.72057755958134,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:42Z",
+    "value": 74.70004787892346,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:52Z",
+    "value": 74.7377090618453,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:02Z",
+    "value": 74.72781801474883,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:12Z",
+    "value": 74.73900418935423,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:22Z",
+    "value": 74.70231289067337,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:32Z",
+    "value": 74.67977749198367,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:42Z",
+    "value": 74.67125168276681,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:52Z",
+    "value": 74.65542635723477,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:02Z",
+    "value": 74.68783268804417,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:12Z",
+    "value": 74.72955613122502,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:22Z",
+    "value": 74.72746194900304,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:32Z",
+    "value": 74.69454829467169,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:42Z",
+    "value": 74.70019252764658,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:52Z",
+    "value": 74.70360463029091,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:02Z",
+    "value": 74.73514370274277,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:12Z",
+    "value": 74.74547159470359,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:22Z",
+    "value": 74.78030521630377,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:32Z",
+    "value": 74.79393957489526,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:42Z",
+    "value": 74.7933406725752,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:52Z",
+    "value": 74.76045201550458,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:02Z",
+    "value": 74.80842096238042,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:12Z",
+    "value": 74.82488013278427,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:22Z",
+    "value": 74.8690297787015,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:32Z",
+    "value": 74.91892448228357,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:42Z",
+    "value": 74.90136418638644,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:52Z",
+    "value": 74.88602964275903,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:02Z",
+    "value": 74.89110123465761,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:12Z",
+    "value": 74.84588860973145,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:22Z",
+    "value": 74.87744957482197,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:32Z",
+    "value": 74.89081502947172,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:42Z",
+    "value": 74.88744183863689,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:52Z",
+    "value": 74.87954689641963,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:02Z",
+    "value": 74.85497445059625,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:12Z",
+    "value": 74.87355166321879,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:22Z",
+    "value": 74.89523024456258,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:32Z",
+    "value": 74.93273106245891,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:42Z",
+    "value": 74.9377171411112,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:52Z",
+    "value": 74.97771024389944,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:02Z",
+    "value": 74.9338674692054,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:12Z",
+    "value": 74.92169046770536,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:22Z",
+    "value": 74.87230183250533,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:32Z",
+    "value": 74.9098984530784,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:42Z",
+    "value": 74.91378437733903,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:52Z",
+    "value": 74.9557929687489,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:02Z",
+    "value": 74.97693024979723,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:12Z",
+    "value": 74.95814695624566,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:22Z",
+    "value": 74.92687818363704,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:32Z",
+    "value": 74.87692300077342,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:42Z",
+    "value": 74.92582592035893,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:52Z",
+    "value": 74.90568741284886,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:02Z",
+    "value": 74.90693737337931,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:12Z",
+    "value": 74.88338763307513,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:22Z",
+    "value": 74.8563093899554,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:32Z",
+    "value": 74.89108625095898,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:42Z",
+    "value": 74.85759560345662,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:52Z",
+    "value": 74.89987873743067,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:02Z",
+    "value": 74.87095292720008,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:12Z",
+    "value": 74.83806674712268,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:22Z",
+    "value": 74.84042855470221,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:32Z",
+    "value": 74.8683035703333,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:42Z",
+    "value": 74.90716077726522,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:52Z",
+    "value": 74.87860088315979,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:02Z",
+    "value": 74.85142329805629,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:12Z",
+    "value": 74.8737209428293,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:22Z",
+    "value": 74.89304543556379,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:32Z",
+    "value": 74.85072366287635,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:42Z",
+    "value": 74.80370984747846,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:52Z",
+    "value": 74.7914924739224,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:02Z",
+    "value": 74.83064830250524,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:12Z",
+    "value": 74.7960137202651,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:22Z",
+    "value": 74.78807988059182,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:32Z",
+    "value": 74.7694720092783,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:42Z",
+    "value": 74.80654580379763,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:52Z",
+    "value": 74.79139710282224,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:02Z",
+    "value": 74.75426168840293,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:12Z",
+    "value": 74.72677722893627,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:22Z",
+    "value": 74.69585710394529,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:32Z",
+    "value": 74.72234520789357,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:42Z",
+    "value": 74.71344240788287,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:52Z",
+    "value": 74.75061987342791,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:02Z",
+    "value": 74.75971883954391,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:12Z",
+    "value": 74.75165472156334,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:22Z",
+    "value": 74.73122787200347,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:32Z",
+    "value": 74.71111211280596,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:42Z",
+    "value": 74.7032705955441,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:52Z",
+    "value": 74.71622493349321,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:02Z",
+    "value": 74.67102797541646,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:12Z",
+    "value": 74.71789630408739,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:22Z",
+    "value": 74.67104091267326,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:32Z",
+    "value": 74.63804201550643,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:42Z",
+    "value": 74.62974037375949,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:52Z",
+    "value": 74.60281935311578,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:02Z",
+    "value": 74.57857241281438,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:12Z",
+    "value": 74.61732979550442,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:22Z",
+    "value": 74.56952969990421,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:32Z",
+    "value": 74.57266570050983,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:42Z",
+    "value": 74.56836912146838,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:52Z",
+    "value": 74.60130558339482,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:02Z",
+    "value": 74.62724566916489,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:12Z",
+    "value": 74.59181564439687,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:22Z",
+    "value": 74.54788082253876,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:32Z",
+    "value": 74.54875523404381,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:42Z",
+    "value": 74.55696780416423,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:52Z",
+    "value": 74.53881715458388,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:02Z",
+    "value": 74.5640012366788,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:12Z",
+    "value": 74.52261144648558,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:22Z",
+    "value": 74.54061585328152,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:32Z",
+    "value": 74.56679679887598,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:42Z",
+    "value": 74.53343316656431,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:52Z",
+    "value": 74.50660579647118,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:02Z",
+    "value": 74.50436344726462,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:12Z",
+    "value": 74.46099413359838,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:22Z",
+    "value": 74.42489347486735,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:32Z",
+    "value": 74.40075399036509,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:42Z",
+    "value": 74.37459303409125,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:52Z",
+    "value": 74.41371711535638,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:02Z",
+    "value": 74.43237321067828,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:12Z",
+    "value": 74.4007442191018,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:22Z",
+    "value": 74.35625216020438,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:32Z",
+    "value": 74.3905692279545,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:42Z",
+    "value": 74.34217840121957,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:52Z",
+    "value": 74.33573464780225,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:02Z",
+    "value": 74.3818625775185,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:12Z",
+    "value": 74.3996492024252,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:22Z",
+    "value": 74.44837691566991,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:32Z",
+    "value": 74.43743534011409,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:42Z",
+    "value": 74.44717644382112,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:52Z",
+    "value": 74.43241118189414,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:02Z",
+    "value": 74.39447916988162,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:12Z",
+    "value": 74.37329277039476,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:22Z",
+    "value": 74.33150668615059,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:32Z",
+    "value": 74.37833448770441,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:42Z",
+    "value": 74.37163709787995,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:52Z",
+    "value": 74.41089472752631,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:02Z",
+    "value": 74.36932291235675,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:12Z",
+    "value": 74.3524742198569,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:22Z",
+    "value": 74.33810233418512,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:32Z",
+    "value": 74.33528040574419,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:42Z",
+    "value": 74.30738328364343,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:52Z",
+    "value": 74.29577895311537,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:02Z",
+    "value": 74.31921531241237,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:12Z",
+    "value": 74.29046496054093,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:22Z",
+    "value": 74.29698444717062,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:32Z",
+    "value": 74.29347500649246,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:42Z",
+    "value": 74.32025245715951,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:52Z",
+    "value": 74.30380860358937,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:02Z",
+    "value": 74.26543503033345,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:12Z",
+    "value": 74.26542275231763,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:22Z",
+    "value": 74.26752629455186,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:32Z",
+    "value": 74.27235459427317,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:42Z",
+    "value": 74.27595977189027,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:52Z",
+    "value": 74.2857934847193,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:02Z",
+    "value": 74.29629786625709,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:12Z",
+    "value": 74.28064624412595,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:22Z",
+    "value": 74.23107720865616,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:32Z",
+    "value": 74.21979772812318,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:42Z",
+    "value": 74.18079245964776,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:52Z",
+    "value": 74.2251444111696,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:02Z",
+    "value": 74.26592259714363,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:12Z",
+    "value": 74.21990424186676,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:22Z",
+    "value": 74.17030465711957,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:32Z",
+    "value": 74.20836720215652,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:42Z",
+    "value": 74.17765410053634,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:52Z",
+    "value": 74.18716301361631,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:02Z",
+    "value": 74.21919412600958,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:12Z",
+    "value": 74.25654094725918,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:22Z",
+    "value": 74.24073403941144,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:32Z",
+    "value": 74.26038629176556,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:42Z",
+    "value": 74.22041473882555,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:52Z",
+    "value": 74.17854536115539,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:02Z",
+    "value": 74.17984936239604,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:12Z",
+    "value": 74.19268248042508,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:22Z",
+    "value": 74.21003814497804,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:32Z",
+    "value": 74.19429939885012,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:42Z",
+    "value": 74.22234816045447,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:52Z",
+    "value": 74.18072933526956,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:02Z",
+    "value": 74.17470394106697,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:12Z",
+    "value": 74.21246071104964,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:22Z",
+    "value": 74.23550841454042,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:32Z",
+    "value": 74.20508141413947,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:42Z",
+    "value": 74.2537297337828,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:52Z",
+    "value": 74.2963600941967,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:02Z",
+    "value": 74.29097327269882,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:12Z",
+    "value": 74.3316423077427,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:22Z",
+    "value": 74.32352123194714,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:32Z",
+    "value": 74.33634692118073,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:42Z",
+    "value": 74.32293743549711,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:52Z",
+    "value": 74.32775525089238,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:02Z",
+    "value": 74.32549518043496,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:12Z",
+    "value": 74.2949170405396,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:22Z",
+    "value": 74.27649484773252,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:32Z",
+    "value": 74.2525414862798,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:42Z",
+    "value": 74.2983483183324,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:52Z",
+    "value": 74.28700125451037,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:02Z",
+    "value": 74.32095252769325,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:12Z",
+    "value": 74.32891689623719,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:22Z",
+    "value": 74.27896112780924,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:32Z",
+    "value": 74.23057365734655,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:42Z",
+    "value": 74.19539739301992,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:52Z",
+    "value": 74.17382021176932,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:02Z",
+    "value": 74.19748473667148,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:12Z",
+    "value": 74.1944610711284,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:22Z",
+    "value": 74.23172652735406,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:32Z",
+    "value": 74.22023290509989,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:42Z",
+    "value": 74.25540736193827,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:52Z",
+    "value": 74.24672589593669,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:02Z",
+    "value": 74.2569806079935,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:12Z",
+    "value": 74.21702436190145,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:22Z",
+    "value": 74.20584379442894,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:32Z",
+    "value": 74.20141410400304,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:42Z",
+    "value": 74.19592090921944,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:52Z",
+    "value": 74.1692347226924,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:02Z",
+    "value": 74.16625086239421,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:12Z",
+    "value": 74.17773986522164,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:22Z",
+    "value": 74.13032659237423,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:32Z",
+    "value": 74.08783463978132,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:42Z",
+    "value": 74.04401954765282,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:52Z",
+    "value": 74.05184749104758,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:02Z",
+    "value": 74.04832677824798,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:12Z",
+    "value": 74.09459661959268,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:22Z",
+    "value": 74.05484321314336,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:32Z",
+    "value": 74.03706558266778,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:42Z",
+    "value": 73.99398121850551,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:52Z",
+    "value": 74.02773331627,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:02Z",
+    "value": 73.98019097649339,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:12Z",
+    "value": 74.00980078021166,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:22Z",
+    "value": 74.05005193565505,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:32Z",
+    "value": 74.09319906353929,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:42Z",
+    "value": 74.0680936615096,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:52Z",
+    "value": 74.11165191798966,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:02Z",
+    "value": 74.12280448573078,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:12Z",
+    "value": 74.11113439604235,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:22Z",
+    "value": 74.08392652808989,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:32Z",
+    "value": 74.05407104503615,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:42Z",
+    "value": 74.05498818941187,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:52Z",
+    "value": 74.01664624209924,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:02Z",
+    "value": 73.97734514447303,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:12Z",
+    "value": 74.01936761815654,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:22Z",
+    "value": 74.01204410287245,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:32Z",
+    "value": 74.0425268050422,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:42Z",
+    "value": 74.03544728519182,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:52Z",
+    "value": 73.99301485923827,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:02Z",
+    "value": 73.99684961979705,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:12Z",
+    "value": 73.97398207180215,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:22Z",
+    "value": 74.00807374611925,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:32Z",
+    "value": 74.00120162745262,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:42Z",
+    "value": 73.95976040084172,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:52Z",
+    "value": 73.91932454358019,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:02Z",
+    "value": 73.91481667805883,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:12Z",
+    "value": 73.8662359564442,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:22Z",
+    "value": 73.83351925409623,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:32Z",
+    "value": 73.78740648500388,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:42Z",
+    "value": 73.79164800057187,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:52Z",
+    "value": 73.78699312776925,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:02Z",
+    "value": 73.78583797877297,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:12Z",
+    "value": 73.76585443590635,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:22Z",
+    "value": 73.76167318470357,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:32Z",
+    "value": 73.74195181654274,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:42Z",
+    "value": 73.70009502607134,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:52Z",
+    "value": 73.68695530589007,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:02Z",
+    "value": 73.65447032771503,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:12Z",
+    "value": 73.6900926089165,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:22Z",
+    "value": 73.70123275467765,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:32Z",
+    "value": 73.65570958440601,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:42Z",
+    "value": 73.67147619411219,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:52Z",
+    "value": 73.62355085648534,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:02Z",
+    "value": 73.63129147057943,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:12Z",
+    "value": 73.64946801532544,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:22Z",
+    "value": 73.68060109418634,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:32Z",
+    "value": 73.7096484055619,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:42Z",
+    "value": 73.69604199211295,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:52Z",
+    "value": 73.72777711727142,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:02Z",
+    "value": 73.77122386625972,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:12Z",
+    "value": 73.76173626803822,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:22Z",
+    "value": 73.73924447711488,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:32Z",
+    "value": 73.76811052313383,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:42Z",
+    "value": 73.72723926997315,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:52Z",
+    "value": 73.72280610897288,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:02Z",
+    "value": 73.67331287710435,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:12Z",
+    "value": 73.63651308349952,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:22Z",
+    "value": 73.64982337392414,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:32Z",
+    "value": 73.64524897760002,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:42Z",
+    "value": 73.66845662448029,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:52Z",
+    "value": 73.62576213378622,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:02Z",
+    "value": 73.67421329202983,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:12Z",
+    "value": 73.66974186562928,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:22Z",
+    "value": 73.6466022727684,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:32Z",
+    "value": 73.62058521517292,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:42Z",
+    "value": 73.61713964050224,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:52Z",
+    "value": 73.5872615744148,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:02Z",
+    "value": 73.63508121066012,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:12Z",
+    "value": 73.61816287404442,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:22Z",
+    "value": 73.66080724413268,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:32Z",
+    "value": 73.61743929548474,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:42Z",
+    "value": 73.64163232578477,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:52Z",
+    "value": 73.60445016195038,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:23:02Z",
+    "value": 73.6118140285505,
+    "measurement": "temperature"
+  },
+  {
+    "sensorId": "TLM0203",
+    "name": "airSensors",
+    "date": "2024-06-16T10:23:12Z",
+    "value": 73.58732213874632,
+    "measurement": "temperature"
+  }
+]

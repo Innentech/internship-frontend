@@ -11,6 +11,15 @@ import {
 } from "recharts"
 
 const CustomBarChart = ({data = []}: {data: any[]}) => {
+  const values = data.map(d => d.value)
+  const minValue = Math.floor(Math.min(...values))
+  const maxValue = Math.floor(Math.max(...values) + 1)
+
+  const numTicks = 5 // Number of ticks  on Y-axis
+  const tickInterval = (maxValue - minValue) / (numTicks - 1)
+  const ticks = Array.from({length: numTicks}, (_, i) =>
+    (minValue + i * tickInterval).toFixed(2)
+  ).map(Number)
   return (
     <div style={{width: "100%", height: 600}} className="p-2">
       <ResponsiveContainer width="100%" height="100%">
@@ -26,19 +35,14 @@ const CustomBarChart = ({data = []}: {data: any[]}) => {
           }}
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis dataKey="name" />
-          <YAxis />
+          <XAxis dataKey="date" />
+          <YAxis domain={[minValue, maxValue]} ticks={ticks} />
           <Tooltip />
           <Legend />
           <Bar
-            dataKey="pv"
+            dataKey="value"
             fill="#8884d8"
             activeBar={<Rectangle fill="pink" stroke="blue" />}
-          />
-          <Bar
-            dataKey="uv"
-            fill="#82ca9d"
-            activeBar={<Rectangle fill="gold" stroke="purple" />}
           />
         </BarChart>
       </ResponsiveContainer>

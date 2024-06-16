@@ -1,0 +1,2529 @@
+[
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:12Z",
+    "value": 0.5183663199975731,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:22Z",
+    "value": 0.5303141269364247,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:32Z",
+    "value": 0.5463414997904564,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:42Z",
+    "value": 0.5547461784554636,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:23:52Z",
+    "value": 0.5395608428161803,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:02Z",
+    "value": 0.5305177377965931,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:12Z",
+    "value": 0.5468532875917461,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:22Z",
+    "value": 0.5476089412027882,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:32Z",
+    "value": 0.5653743258009282,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:42Z",
+    "value": 0.5766505072080426,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:24:52Z",
+    "value": 0.5591055931584977,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:02Z",
+    "value": 0.5535772911778966,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:12Z",
+    "value": 0.5672302181890733,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:22Z",
+    "value": 0.583454536112729,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:32Z",
+    "value": 0.5808578734772775,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:42Z",
+    "value": 0.597578904413197,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:25:52Z",
+    "value": 0.5957554230596444,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:02Z",
+    "value": 0.609706283244852,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:12Z",
+    "value": 0.6147940727877639,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:22Z",
+    "value": 0.6215984113437667,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:32Z",
+    "value": 0.6181445576680578,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:42Z",
+    "value": 0.6027673655629614,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:26:52Z",
+    "value": 0.6027787729224345,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:02Z",
+    "value": 0.6172827370278209,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:12Z",
+    "value": 0.6269581383936614,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:22Z",
+    "value": 0.6152478614179842,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:32Z",
+    "value": 0.6183209184260192,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:42Z",
+    "value": 0.6226109009184491,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:27:52Z",
+    "value": 0.6173864688255758,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:02Z",
+    "value": 0.6226880876854199,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:12Z",
+    "value": 0.6214325064370169,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:22Z",
+    "value": 0.6038930880976585,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:32Z",
+    "value": 0.5849616993917667,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:42Z",
+    "value": 0.5792452545183375,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:28:52Z",
+    "value": 0.5740532372437611,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:02Z",
+    "value": 0.5730417059822128,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:12Z",
+    "value": 0.5912253725741864,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:22Z",
+    "value": 0.6023080200105645,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:32Z",
+    "value": 0.6174571531867921,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:42Z",
+    "value": 0.6081639286244649,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:29:52Z",
+    "value": 0.5966347873584784,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:02Z",
+    "value": 0.6158197427106616,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:12Z",
+    "value": 0.6099493029104522,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:22Z",
+    "value": 0.6073029499115654,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:32Z",
+    "value": 0.6102900322669018,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:42Z",
+    "value": 0.6130324858247127,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:30:52Z",
+    "value": 0.6283827249813647,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:02Z",
+    "value": 0.6284497931047723,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:12Z",
+    "value": 0.6129673888490069,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:22Z",
+    "value": 0.6056941899360698,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:32Z",
+    "value": 0.6068731541447221,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:42Z",
+    "value": 0.6110938162968381,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:31:52Z",
+    "value": 0.61734709517962,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:02Z",
+    "value": 0.6318306991093399,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:12Z",
+    "value": 0.6384860186435559,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:22Z",
+    "value": 0.65689785009167,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:32Z",
+    "value": 0.6604807363009173,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:42Z",
+    "value": 0.6483996160514056,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:32:52Z",
+    "value": 0.6427893804972892,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:02Z",
+    "value": 0.6523452227357822,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:12Z",
+    "value": 0.6712888216224159,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:22Z",
+    "value": 0.6873403632322929,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:32Z",
+    "value": 0.676578607138699,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:42Z",
+    "value": 0.6847060738782645,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:33:52Z",
+    "value": 0.704522090830445,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:02Z",
+    "value": 0.7046793236325637,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:12Z",
+    "value": 0.7025413746741781,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:22Z",
+    "value": 0.6971605019981977,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:32Z",
+    "value": 0.6824882723468482,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:42Z",
+    "value": 0.6687112529197816,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:34:52Z",
+    "value": 0.6727259243758982,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:02Z",
+    "value": 0.664334817840454,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:12Z",
+    "value": 0.6697360422963997,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:22Z",
+    "value": 0.6704424728120371,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:32Z",
+    "value": 0.6779336036445677,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:42Z",
+    "value": 0.6906547600151618,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:35:52Z",
+    "value": 0.6998910638880819,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:02Z",
+    "value": 0.7027232413775334,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:12Z",
+    "value": 0.694556553908785,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:22Z",
+    "value": 0.7141443848444283,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:32Z",
+    "value": 0.7281494693116117,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:42Z",
+    "value": 0.7473257083080646,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:36:52Z",
+    "value": 0.7630418068872876,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:02Z",
+    "value": 0.7551031350085552,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:12Z",
+    "value": 0.7439417740542167,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:22Z",
+    "value": 0.7483115911937528,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:32Z",
+    "value": 0.7638074734106489,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:42Z",
+    "value": 0.766078949758229,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:37:52Z",
+    "value": 0.7539877149436814,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:02Z",
+    "value": 0.7510117613355934,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:12Z",
+    "value": 0.7593958534926271,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:22Z",
+    "value": 0.7683133895400444,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:32Z",
+    "value": 0.7787138290812329,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:42Z",
+    "value": 0.7885265573166726,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:38:52Z",
+    "value": 0.7859074018357354,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:02Z",
+    "value": 0.7817023921505276,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:12Z",
+    "value": 0.7965779904718371,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:22Z",
+    "value": 0.7919721326134133,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:32Z",
+    "value": 0.8046489052198665,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:42Z",
+    "value": 0.7983913557779948,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:39:52Z",
+    "value": 0.7865383744615366,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:02Z",
+    "value": 0.8011208825032925,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:12Z",
+    "value": 0.8003360316567243,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:22Z",
+    "value": 0.8132502543148377,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:32Z",
+    "value": 0.7948975427035305,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:42Z",
+    "value": 0.7989931299497426,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:40:52Z",
+    "value": 0.7843744569197364,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:02Z",
+    "value": 0.7834450238770225,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:12Z",
+    "value": 0.7953460061402093,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:22Z",
+    "value": 0.7997963885918223,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:32Z",
+    "value": 0.8081727899671893,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:42Z",
+    "value": 0.8262785375199464,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:41:52Z",
+    "value": 0.8350009550667941,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:02Z",
+    "value": 0.8365389892259949,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:12Z",
+    "value": 0.8435097217004731,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:22Z",
+    "value": 0.8615636295920657,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:32Z",
+    "value": 0.874071231470452,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:42Z",
+    "value": 0.8934933425616642,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:42:52Z",
+    "value": 0.8739188728658216,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:02Z",
+    "value": 0.8731952147152151,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:12Z",
+    "value": 0.8707601899986972,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:22Z",
+    "value": 0.8534232975510717,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:32Z",
+    "value": 0.8730428637505361,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:42Z",
+    "value": 0.8571656033999934,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:43:52Z",
+    "value": 0.850446294932776,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:02Z",
+    "value": 0.8419511993591235,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:12Z",
+    "value": 0.8382854722826711,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:22Z",
+    "value": 0.8533157621810554,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:32Z",
+    "value": 0.8442052284369587,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:42Z",
+    "value": 0.8386364109876403,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:44:52Z",
+    "value": 0.8279781710605888,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:02Z",
+    "value": 0.8218305166574602,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:12Z",
+    "value": 0.8385948425505071,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:22Z",
+    "value": 0.8482299430142856,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:32Z",
+    "value": 0.8545120582551087,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:42Z",
+    "value": 0.8486272127224789,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:45:52Z",
+    "value": 0.8349840470188207,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:02Z",
+    "value": 0.8205191937471258,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:12Z",
+    "value": 0.8209236888689653,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:22Z",
+    "value": 0.8038823763417098,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:32Z",
+    "value": 0.8221031609583482,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:42Z",
+    "value": 0.8387179722954607,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:46:52Z",
+    "value": 0.8542803622643195,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:02Z",
+    "value": 0.8624633927866324,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:12Z",
+    "value": 0.8625322639171855,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:22Z",
+    "value": 0.8576661218242008,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:32Z",
+    "value": 0.8389945938663957,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:42Z",
+    "value": 0.8374884280128536,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:47:52Z",
+    "value": 0.8391500852975046,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:02Z",
+    "value": 0.8439776911174226,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:12Z",
+    "value": 0.8429988232485801,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:22Z",
+    "value": 0.8537560771428049,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:32Z",
+    "value": 0.8393501345230534,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:42Z",
+    "value": 0.8493745013240505,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:48:52Z",
+    "value": 0.8667779559218578,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:02Z",
+    "value": 0.8819645882831142,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:12Z",
+    "value": 0.8624579991098724,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:22Z",
+    "value": 0.8755072110887093,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:32Z",
+    "value": 0.8558613669764404,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:42Z",
+    "value": 0.8457649743869674,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:49:52Z",
+    "value": 0.8497188692610621,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:02Z",
+    "value": 0.861753103638384,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:12Z",
+    "value": 0.8616278806126442,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:22Z",
+    "value": 0.8501728904612472,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:32Z",
+    "value": 0.8530932955712606,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:42Z",
+    "value": 0.8496397097283844,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:50:52Z",
+    "value": 0.8361971728841275,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:02Z",
+    "value": 0.8455198324070169,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:12Z",
+    "value": 0.8551336718206447,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:22Z",
+    "value": 0.8523036486612844,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:32Z",
+    "value": 0.8398501982690522,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:42Z",
+    "value": 0.8271389243103314,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:51:52Z",
+    "value": 0.8369636933001038,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:02Z",
+    "value": 0.8421136415414218,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:12Z",
+    "value": 0.8428144763789395,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:22Z",
+    "value": 0.8551064065710314,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:32Z",
+    "value": 0.8473045844217328,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:42Z",
+    "value": 0.8479457327636927,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:52:52Z",
+    "value": 0.8344395038221785,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:02Z",
+    "value": 0.8402790894158896,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:12Z",
+    "value": 0.8332167073274351,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:22Z",
+    "value": 0.831641373742129,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:32Z",
+    "value": 0.8337126147524954,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:42Z",
+    "value": 0.8533436993861006,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:53:52Z",
+    "value": 0.8508807879913223,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:02Z",
+    "value": 0.8510458925593101,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:12Z",
+    "value": 0.8526419527075026,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:22Z",
+    "value": 0.8667973771135649,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:32Z",
+    "value": 0.8855572361369267,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:42Z",
+    "value": 0.8708008687305885,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:54:52Z",
+    "value": 0.8654713906130133,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:02Z",
+    "value": 0.8459029025885512,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:12Z",
+    "value": 0.8563981912182179,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:22Z",
+    "value": 0.8726680116887033,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:32Z",
+    "value": 0.8541582445132989,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:42Z",
+    "value": 0.8422259849479403,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:55:52Z",
+    "value": 0.842651439648265,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:02Z",
+    "value": 0.8250028799037205,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:12Z",
+    "value": 0.8207919511962408,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:22Z",
+    "value": 0.8221545693242853,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:32Z",
+    "value": 0.8380638846553404,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:42Z",
+    "value": 0.8487088671234556,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:56:52Z",
+    "value": 0.8601015427301304,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:02Z",
+    "value": 0.8710212994409794,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:12Z",
+    "value": 0.8792552593867792,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:22Z",
+    "value": 0.8641681622872334,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:32Z",
+    "value": 0.8584028995529143,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:42Z",
+    "value": 0.8727437137754152,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:57:52Z",
+    "value": 0.858567908495076,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:02Z",
+    "value": 0.8408867113345029,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:12Z",
+    "value": 0.8232829338460087,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:22Z",
+    "value": 0.8273253364615131,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:32Z",
+    "value": 0.8109838049776197,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:42Z",
+    "value": 0.8178221839073843,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:58:52Z",
+    "value": 0.8293234213985445,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:02Z",
+    "value": 0.8233040205578479,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:12Z",
+    "value": 0.8229749099660632,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:22Z",
+    "value": 0.8320358217586025,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:32Z",
+    "value": 0.8189967278637242,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:42Z",
+    "value": 0.8281980341921885,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T09:59:52Z",
+    "value": 0.839966862665351,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:02Z",
+    "value": 0.8470236352789363,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:12Z",
+    "value": 0.8526921320190864,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:22Z",
+    "value": 0.8513488875609118,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:32Z",
+    "value": 0.8608725047070862,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:42Z",
+    "value": 0.8621987201671396,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:00:52Z",
+    "value": 0.8750092286818835,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:02Z",
+    "value": 0.8762692187204388,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:12Z",
+    "value": 0.8660698487699081,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:22Z",
+    "value": 0.8673766779400255,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:32Z",
+    "value": 0.8824743962765381,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:42Z",
+    "value": 0.8635247557191991,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:01:52Z",
+    "value": 0.8734532726673189,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:02Z",
+    "value": 0.8924019375466302,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:12Z",
+    "value": 0.9027642716250234,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:22Z",
+    "value": 0.904498068749831,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:32Z",
+    "value": 0.9239393731874144,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:42Z",
+    "value": 0.9237688408777494,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:02:52Z",
+    "value": 0.9204266994976914,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:02Z",
+    "value": 0.927811921915247,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:12Z",
+    "value": 0.9285536266417079,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:22Z",
+    "value": 0.9227865555650417,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:32Z",
+    "value": 0.9242340952718451,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:42Z",
+    "value": 0.9077066923747156,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:03:52Z",
+    "value": 0.9180320325151827,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:02Z",
+    "value": 0.8993438344272262,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:12Z",
+    "value": 0.8885779986093872,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:22Z",
+    "value": 0.884162169883341,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:32Z",
+    "value": 0.8861753010148378,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:42Z",
+    "value": 0.8947525155779358,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:04:52Z",
+    "value": 0.8935802118812324,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:02Z",
+    "value": 0.8762915879590106,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:12Z",
+    "value": 0.8817632426503685,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:22Z",
+    "value": 0.8747057299596067,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:32Z",
+    "value": 0.8884156766717085,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:42Z",
+    "value": 0.8919609360706634,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:05:52Z",
+    "value": 0.9021352316232703,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:02Z",
+    "value": 0.903506199120238,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:12Z",
+    "value": 0.9017769803107568,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:22Z",
+    "value": 0.8914379644376723,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:32Z",
+    "value": 0.9017531314238736,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:42Z",
+    "value": 0.9214117537029894,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:06:52Z",
+    "value": 0.9033481025111316,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:02Z",
+    "value": 0.9081592244371329,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:12Z",
+    "value": 0.9044272133186058,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:22Z",
+    "value": 0.8918540014988791,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:32Z",
+    "value": 0.8959627176120112,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:42Z",
+    "value": 0.9043459640110117,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:07:52Z",
+    "value": 0.9124075651506822,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:02Z",
+    "value": 0.8993655306297917,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:12Z",
+    "value": 0.9087816092299559,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:22Z",
+    "value": 0.9124915998581038,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:32Z",
+    "value": 0.9236624915624372,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:42Z",
+    "value": 0.9422915939693639,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:08:52Z",
+    "value": 0.9295603361959562,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:02Z",
+    "value": 0.9140881298940092,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:12Z",
+    "value": 0.9217871054216518,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:22Z",
+    "value": 0.9188175623978467,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:32Z",
+    "value": 0.9323459980534397,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:42Z",
+    "value": 0.9299003254755667,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:09:52Z",
+    "value": 0.9410435906420629,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:02Z",
+    "value": 0.9341108137882418,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:12Z",
+    "value": 0.94068645426009,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:22Z",
+    "value": 0.9298069631388526,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:32Z",
+    "value": 0.9143492451191226,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:42Z",
+    "value": 0.9178628785664946,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:10:52Z",
+    "value": 0.9212668998927613,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:02Z",
+    "value": 0.9151287460509427,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:12Z",
+    "value": 0.8976969576964555,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:22Z",
+    "value": 0.9109373679313536,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:32Z",
+    "value": 0.9048093277272728,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:42Z",
+    "value": 0.9174465006430431,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:11:52Z",
+    "value": 0.9279574111055798,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:02Z",
+    "value": 0.92218467193097,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:12Z",
+    "value": 0.9093665156909043,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:22Z",
+    "value": 0.8954165309526069,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:32Z",
+    "value": 0.904760886192037,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:42Z",
+    "value": 0.9181037474216214,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:12:52Z",
+    "value": 0.9269218268990252,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:02Z",
+    "value": 0.9251601522892516,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:12Z",
+    "value": 0.9059096978649259,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:22Z",
+    "value": 0.8895638887930717,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:32Z",
+    "value": 0.8761037187110445,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:42Z",
+    "value": 0.8620640421076406,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:13:52Z",
+    "value": 0.875854528907401,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:02Z",
+    "value": 0.8889175514544451,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:12Z",
+    "value": 0.8940404288802791,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:22Z",
+    "value": 0.9049017223113532,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:32Z",
+    "value": 0.8865004778426555,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:42Z",
+    "value": 0.9025203598072808,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:14:52Z",
+    "value": 0.9076381894265004,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:02Z",
+    "value": 0.8894430161648983,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:12Z",
+    "value": 0.9032872525102823,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:22Z",
+    "value": 0.8867546493440628,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:32Z",
+    "value": 0.8790105848857835,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:42Z",
+    "value": 0.859580645198641,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:15:52Z",
+    "value": 0.8730901849682491,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:02Z",
+    "value": 0.8865208131518336,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:12Z",
+    "value": 0.8933857968807114,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:22Z",
+    "value": 0.8748201694120344,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:32Z",
+    "value": 0.8689014673454017,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:42Z",
+    "value": 0.8496040369958827,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:16:52Z",
+    "value": 0.8623979097895151,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:02Z",
+    "value": 0.8488050221052894,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:12Z",
+    "value": 0.8334407997107516,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:22Z",
+    "value": 0.8262417877362432,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:32Z",
+    "value": 0.8181056044011094,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:42Z",
+    "value": 0.8160065269312188,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:17:52Z",
+    "value": 0.798434017514321,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:02Z",
+    "value": 0.7862591176243348,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:12Z",
+    "value": 0.7999601512443296,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:22Z",
+    "value": 0.8085766010352404,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:32Z",
+    "value": 0.8159539231627071,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:42Z",
+    "value": 0.8200004940913477,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:18:52Z",
+    "value": 0.8336515834826999,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:02Z",
+    "value": 0.8500402972994577,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:12Z",
+    "value": 0.8691857624031782,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:22Z",
+    "value": 0.874948623738566,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:32Z",
+    "value": 0.8688884511819932,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:42Z",
+    "value": 0.8614946968596037,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:19:52Z",
+    "value": 0.8576619996863745,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:02Z",
+    "value": 0.8422489501088528,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:12Z",
+    "value": 0.8373863021796201,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:22Z",
+    "value": 0.8342420377541503,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:32Z",
+    "value": 0.8352474857739612,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:42Z",
+    "value": 0.844404118278966,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:20:52Z",
+    "value": 0.8486673576343037,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:02Z",
+    "value": 0.8499764224521197,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:12Z",
+    "value": 0.8576473936037111,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:22Z",
+    "value": 0.8732770057725343,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:32Z",
+    "value": 0.8610169663406986,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:42Z",
+    "value": 0.8703142460221862,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:21:52Z",
+    "value": 0.8549317039129005,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:02Z",
+    "value": 0.8495560187169419,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:12Z",
+    "value": 0.8630142891987003,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:22Z",
+    "value": 0.8719482318975597,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:32Z",
+    "value": 0.8612182910785559,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:42Z",
+    "value": 0.8632146741972758,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:22:52Z",
+    "value": 0.8805348042321636,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:23:02Z",
+    "value": 0.8762384151875086,
+    "measurement": "co"
+  },
+  {
+    "sensorId": "TLM0202",
+    "name": "airSensors",
+    "date": "2024-06-16T10:23:12Z",
+    "value": 0.8907960984076091,
+    "measurement": "co"
+  }
+]
